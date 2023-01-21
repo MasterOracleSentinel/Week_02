@@ -1,0 +1,8 @@
+Maintaining Information on a Page
+
+Your task in this activity is to do the following:
+
+Declare a variable called "counter" and set its value to 0.
+Write a function in JavaScript that will increment the variable "counter" by 1 every time it is called.
+Schedule the execution of the function you created to be executed every three seconds.
+Use console.log to show the results of the function call.
