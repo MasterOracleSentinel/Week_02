@@ -1,0 +1,4 @@
+You task in this activity is to do the following:
+
+Create a function in JavaScript that will display the words "Hello World" on the console.
+Delay the execution of the function you created by three seconds by adding the timeout function.
