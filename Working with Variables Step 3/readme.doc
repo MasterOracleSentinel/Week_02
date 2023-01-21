@@ -1,4 +1,41 @@
+(1)
+Task Instructions
+In this activity, you will define a variable within a JavaScript function. You'll learn more about functions later. For now, we'll focus on variables.
+
+To accomplish this task, you need to do the following:
+
+In this activity you will be working in the variables-01/variables-01.js file.
+
+Be sure to navigate to the coorisponding NextTech Web Browser tab. To do this, 
+enter the following URL localhost:8080/variables-01 in the NextTech browser and press the enter key.
+
+Create a variable called myFriend using one of the variable declarations described above (var, let, or const).
+Set the variable you created to contain your friend's name.
+Inside the greetings function, return the string: "Greetings [your-friend's-name]."
+Note: The following line of code console.log('results: ', greetings()); will print the result of 
+
+your code to the console. You will learn more about how this works later on in the course.
+
+
+(2)
+Task Instructions
+In this activity you will be working in the variables-02/variables-02.js file.
+
+Be sure to navigate to the coorisponding NextTech Web Browser tab. To do this, enter the following 
+URL localhost:8080/variables-02 in the NextTech browser and press the enter key.
+
+Your task in this activity is to declare a variable named currentYear using let. This variable should
+have the current year as a value (ex. 1991), and its type should be a number.
+
+
+
+
+
+
+(3)
 Define variables and arrays using JavaScript
+
+
 
 Task Instruction
 In this activity you will be working in the variables-03/variables-03.js file.
