@@ -1,0 +1,11 @@
+Functions - Step 3
+
+
+Task Instructions
+Your task in this activity is to create a function called isString that takes three arguments (a, b, c). This function does the following:
+
+It uses the typeof operator and strict equality comparison to check if the type of all three parameters a, b and c is string.
+If each argument is a string it returns the message strings.
+If any of the three parameters is not a string, then it returns the message not strings.
+Hint: Read about the typeof built-in function to help you solve the exercise.
+
