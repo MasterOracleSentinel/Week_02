@@ -1,3 +1,35 @@
+Simulating Ball Movement
+Simulation - Ball Animation
+Simulation - Detecting Screen Edge
+Simulation - Detecting Screen Edge on the x- and y-axes
+
+
+
+
+(1)
+Your task in this activity is to do the following:
+
+Using HTML and CSS, display a ball on the page. The div element you create needs to have "ball" as the id. 
+This code should be added to the index file.
+
+The "ball" element should have the following CSS attributes:
+
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 200px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: black;
+In the ball.js file, 
+create a global variable called ball and set it to the 
+HTML element <div>..</div> with id "ball" using the getElementById() built-in function.
+
+
+
+
+(2)
 Your task is to make the ball continuously move from the left of the page to the right.
 
 To complete this task, you need to do the following:
@@ -8,3 +40,33 @@ should initially be 0.
 Inside the moveBall() function, add logic to update the positionX variable by adding the value of velocity to it. Then set the ball's position 
 to this new value.
 After making these changes, the ball should move from left to right continuously.
+
+
+(3)
+Your task is to write an HTML and JavaScript code that will allow the ball to move between two fixed positions on the x-axis on the page.
+
+To accomplish this task, you need to do the following:
+
+Define a global variable called reverse and set its value to false. This variable is a boolean (can either be true or false) 
+and it will help you define which direction the ball should move in.
+The reverse variable will change value every time the ball hits the edge of a defined area on the screen.
+The area is defined by the variables Xmin and Xmax.
+Inside the moveBall() function, add logic to set the ball position on the x-axis based on the value of reverse:
+When reverse is false, the ball moves from left to right (ball position + velocity.)
+When reverse is true, the ball moves from left to right (ball position - velocity.)
+After that, inside the moveBall() function, add logic to compare the variable positionX, Xmin and Xmax.
+if the ball position (positionX) is greater than Xmax or equals Xmin, then the value of reverse should be switched.
+Adding these changes will make the ball move between two points on the x-axis across the screen.
+
+
+
+(4)
+Your task is to add JavaScript code that will allow the ball to move between two fixed positions on the x-axis and y-axis on the page.
+
+To accomplish this task, you need to do the following:
+
+Define a global variable called positionY and set its value to 0.
+Inside the moveBall() function, note the two variables called Ymin and Ymax. These variables define the two points on the y-axis of 
+the page where the ball should bounce.
+Update the logic you created in step 3 to include checks for the y-axis position of the ball.
+After implementing these changes, the ball should bounce diagonally between the defined points on both the x-axis and y-axis.
