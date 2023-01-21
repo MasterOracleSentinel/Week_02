@@ -1,0 +1,117 @@
+(1) Create a web page with the following HTML elements:
+
+A header
+A sub-header
+An image
+A hyperlink to another page
+A paragraph
+
+Want a challenge?
+
+Add an ordered list (ol) and an unordered list (ul) containing three separate list elements to your web page.
+When you are done, upload screenshots of your code and your page displayed in the browser.
+
+Stuck? Go to MDN Links to an external site. to find the proper tags for each HTML element.
+
+Need some dummy text to fill your paragraphs or headers? Check out lorem ipsum Links to an external site., 
+a common text placeholder used when designing websites.
+
+(2)
+Explaining Functions, Arrays, And Loops (30:00) - Section B
+
+ Explain the core components of the languages and tools used in front end development
+
+Instructions:
+
+Sometimes, when you learn a new concept, you think you understand it until it comes time to explain that concept to a beginner. 
+This is where a tested-and-true trick called “explain like I’m five” comes into play. The premise is, if you can struggle your
+way through explaining an advanced technical concept to a small child, you truly and fully understand it yourself. Also, even 
+though you work in code, you will eventually have to communicate coding concepts to non-technical people on your team, such as 
+project managers, clients, or even newer developers. This activity begins to build this essential soft skill that can set you 
+apart as a valuable asset to a development team.
+
+Imagine a strangely curious and specific 5-year-old asks you to explain arrays, loops, and functions to them in JavaScript. 
+How would you explain these three concepts to a five-year-old? Use real-world (not code!) examples that a child can relate to.
+
+Submission Instructions:
+
+Word count: 50-200
+You are encouraged to reply to your fellow learners to continue the conversation.
+
+(3)
+Coding Challenge
+
+Instructions:
+
+This is a multi-part discussion/assignment that will have you share your work with the world for the first time.
+
+Potential employers love to see curiosity and enthusiasm from beginners as well as proof that they are learning 
+new things and building things with codes on a consistent basis. It does not have to be fancy or perfect; the visible 
+effort to make something new is what is important. This perspective will set you apart from others early on in the game 
+and you can start creating “career capital,” which is also known as the public proof of learning, and sharing your knowledge, 
+which you can leverage later on in your job hunt.
+
+Take a screencast of your bonus ball challenge in action (you can use QuickTime on MacOS or the built-in game bar on Windows 10)
+Upload the screencast to your LinkedIn and/or Twitter profile and briefly talk about three things you have learned. Do your best 
+to sound enthusiastic, excited, and curious!
+Tag it with the hashtags #fullstackdeveloper, #frontenddeveloper, and #javascript
+Share the link to your post in this discussion.
+Like and comment on your peers’ social media links! 
+Submission Instructions:
+
+Word count: 50-100
+You are encouraged to reply to your fellow learners to continue the conversation.
+
+
+(4)
+
+Technical Challenge Reflection
+
+Think back to a difficult technical challenge you faced during any of the coding exercises and answer the following questions.
+
+What was challenging about it?
+What did you do to overcome that challenge?
+What did you learn from the process?
+What further questions do you have?
+What would you like to explore further based on this challenge?
+Submission Instructions:
+
+Word count: 50-100
+After you have submitted, read your classmates' responses, and take notes of what you can learn from their challenges,
+and where you could help them in their challenges.
+Post at least one reply where you did your best to answer a classmate’s further question, and one reply where you applied 
+something they learned to your own challenges.
+Remember: it’s important to verbalize your process, especially when you get stuck or don’t finish a challenge. Giving good effort, 
+noting down what you’ve learned, and asking for constant feedback are some of the best habits to build early in your coding journey.
+
+This topic was locked May 18, 2022 at 12:29pm.
+
+(5)
+Q & A Discussion With Learning Facilitators
+
+Do you have specific questions about a coding assignment? Did you encounter a bug that you are struggling to troubleshoot?
+
+This forum is the space to ask questions related to this week’s assignments and video content. It will be moderated by your Learning Facilitators.
+
+We also encourage you to read through your classmate’s questions and:
+
+Respond if you know the answer, or
+Comment if you also have the same question that they posted
+Submission Instructions:
+
+When asking a question, please include a 'Subject line' letting us know the specific assignment, video, or topic your question refers to. 
+Additionally, provide all details necessary for someone to help you with the specific issue you may be facing. 
+If this refers to a coding activity or assignment, please copy paste the code that is not working for you. 
+This will help your Learning Facilitators provide an accurate answer to your question, as well as other learners to 
+create a thread if they have a similar question.
+
+(6)
+Please review these additional resources to continue learning:
+
+MDN Web Docs: JavaScriptLinks to an external site.
+JavaScript BasicsLinks to an external site.
+Getting Started with the WebLinks to an external site.
+Stack Overflow JavaScript QuestionsLinks to an external site.
+Airbnb JavaScript Style GuideLinks to an external site.
+Airbnb JavaScript Style Guide GitHubLinks to an external site.
+BootstrapLinks to an external site.
