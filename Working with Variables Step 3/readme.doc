@@ -1,2 +1,17 @@
 Define variables and arrays using JavaScript
 
+Task Instruction
+In this activity you will be working in the variables-03/variables-03.js file.
+
+Be sure to navigate to the coorisponding NextTech Web Browser tab. To do this, enter the following URL localhost:8080/variables-03 in the 
+NextTech browser and press the enter key.
+
+In this activity, you will declare variables with let and const keywords. The function testBestFlavor needs to print the message: 
+"Ana says, lacroix orange is a better flavor than lacroix grapefruit."
+
+To make this function complete, you need to declare two constants:
+
+lacroix1: This needs to be declared outside the scope of the function testBestFlavor using const and it needs to have the value "grapefruit".
+lacroix2: This needs to be declared inside the scope of the function testBestFlavor using const and it needs to have the value "orange".
+After you're done with your code changes, check the console to see if the printed message is correct. Then, submit the task.
+
