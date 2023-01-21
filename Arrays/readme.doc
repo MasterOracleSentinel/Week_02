@@ -1,0 +1,5 @@
+Task Instructions
+In this activity you are given an array named numArray that contains numbers 1 through 10. Your task is to do the following:
+
+Using the Javascript let keyword declare a new variable called elementAtIndexFive. The value of this variable should be the 
+element with index 5 in the numArray array.
