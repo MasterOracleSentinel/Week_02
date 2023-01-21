@@ -1,0 +1,7 @@
+Task Instructions
+Your task in this activity is to create a function that checks if a person is old enough to vote by checking 
+their age. This function is called isOldEnoughToVote(age) and has the following specifications:
+
+It takes an argument called age representing the age of the person.
+It checks if the age is greater than or equal to 18.
+If returns true or false based on that comparison.
